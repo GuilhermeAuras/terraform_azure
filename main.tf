@@ -1,3 +1,7 @@
+#Grupo de recurso
+#Blob Storage;
+#Container para armazenamento de arquivos
+
 terraform {
   required_providers {
     random = {
