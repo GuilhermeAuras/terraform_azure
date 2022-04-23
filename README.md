@@ -1,17 +1,18 @@
 # terraform_azure
-az login
+Logar na Azure
+* az login
 
-#Para iniciar
+Para iniciar
 * terraform init
 
-#Para validar o codigo
+Para validar o codigo
 * terraform validate
 
-#Para planejar
+Para planejar
 * terraform plan
 
-#Para executar com auto aprovação
+Para executar com auto aprovação
 * terraform apply -auto-approve
 
-#Para destruir com auto aprovação
+Para destruir com auto aprovação
 * terraform destroy -auto-approve
