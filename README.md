@@ -16,3 +16,6 @@ Para executar com auto aprovação
 
 Para destruir com auto aprovação
 * terraform destroy -auto-approve
+
+Para formatar e padronizar o arquivo caso necessário:
+* terraform fmt
